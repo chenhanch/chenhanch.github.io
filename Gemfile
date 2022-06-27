@@ -29,3 +29,4 @@ end
 
 gem "webrick", "~> 1.7"
 gem "activesupport", ">= 4.1.11"
+gem "octokit", ">= 4.25.0"
