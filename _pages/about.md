@@ -8,18 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 I graduated from College of Electronics and Information Engineering, Shenzhen University with a bachelor’s degree in 2020. I am currently studying for a master's degree in Information and Communication Engineering at the College of Electronics and Information Engineering, Shenzhen University. My tutor is Professor [Bin Li](http://media-sec.szu.edu.cn/view/libin105.html), now I am studying at [Shenzhen Key Laboratory of Media Information Content Security](http://media-sec.szu.edu.cn/).
 
-My research interest includes Deepfake detection,Multimedia Forensics and Security and Steganalysis.<a href='https://scholar.google.com.hk/citations?user=gjRK_isAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+My research interest includes Deepfake detection,Multimedia Forensics and Security and Steganalysis <a href='https://scholar.google.com.hk/citations?user=gjRK_isAAAAJ&hl'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/chenhanch/chenhanch.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">.
 
 # 🔥 News
 
