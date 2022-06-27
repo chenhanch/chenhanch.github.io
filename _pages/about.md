@@ -19,7 +19,7 @@ redirect_from:
 
 I graduated from College of Electronics and Information Engineering, Shenzhen University with a bachelor’s degree in 2020. I am currently studying for a master's degree in Information and Communication Engineering at the College of Electronics and Information Engineering, Shenzhen University. My tutor is Professor [Bin Li](http://media-sec.szu.edu.cn/view/libin105.html), now I am studying at [Shenzhen Key Laboratory of Media Information Content Security](http://media-sec.szu.edu.cn/).
 
-My research interest includes Deepfake detection,Multimedia Forensics and Security and Steganalysis.<a href='https://scholar.google.com.hk/citations?user=gjRK_isAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+My research interest includes Deepfake detection,Multimedia Forensics and Security and Steganalysis.<a href='https://scholar.google.com.hk/citations?user=gjRK_isAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 
 # 🔥 News
 
