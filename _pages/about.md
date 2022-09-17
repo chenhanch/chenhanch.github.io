@@ -18,6 +18,7 @@ My research interest includes Deepfake detection,Multimedia Forensics and Securi
 
 <span class='anchor' id='-news'></span>
 
+* 2022.09：One paper is accepted by ACCV 2022.
 * 2022.09：One paper is accepted by IEEE TCSVT.
 * 2022.06：One paper is accepted by ICIP 2022.
 * 2022.06：Ranked #1 place in DeepFake detection track of DFGC2022.
